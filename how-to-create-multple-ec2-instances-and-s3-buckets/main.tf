@@ -1,4 +1,4 @@
-#Assuming that you already have assigned your credentials(access_key and secret_key) and the region in which you want to deploy the resource(s)
+#Assuming that you have already assigned your credentials(access_key and secret_key) and the region in which you want to deploy the resource(s)
 variable "instance_count" {
   type = string
   default = "3"
